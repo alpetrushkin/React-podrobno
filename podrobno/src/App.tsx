@@ -16,6 +16,7 @@ function App() {
       {id: 2, title: 'Lokomotiv', isDone: true},
       {id: 3, title: 'Zenit', isDone: true},
       {id: 4, title: 'Ufa', isDone: false},
+
    ])
 
 
